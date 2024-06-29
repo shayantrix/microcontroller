@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:58BA95A2
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:34 "C:\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:37 "mychar -> R5"
+NODE:V LEVEL:0 LINE:38 "i -> R2.0"
+NODE:F LEVEL:0 LINE:42 "myinterrupt(void)"
+NODE:F LEVEL:0 LINE:48 "main(void)"
